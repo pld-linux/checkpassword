@@ -36,8 +36,8 @@ wspó³dzia³anie z bibliotek± PAM.
 %patch1
 
 %build
-echo %{__cc} %{rpmcflags} > conf-cc
-echo "%{_prefix}" > conf-home
+echo '%{__cc} %{rpmcflags}' > conf-cc
+echo '%{_prefix}' > conf-home
 %{__make}
 
 %install
