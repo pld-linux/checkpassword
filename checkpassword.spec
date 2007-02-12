@@ -1,5 +1,5 @@
 Summary:	The uniform password-checking interface
-Summary(pl):	Jednolite miêdzymordzie do hase³
+Summary(pl.UTF-8):   Jednolite miÄ™dzymordzie do haseÅ‚
 Name:		checkpassword
 Version:	0.90
 Release:	1
@@ -24,10 +24,10 @@ Applications that use the checkpassword interface will work with all
 of these tools. Several tools have been specifically designed to
 support POP toasters.
 
-%description -l pl
-Jednolite miêdzymordzie do hase³, do u¿ycia przez serwery takie jak
-ftpd, pop3, imapd, login. Wyposa¿one dodatkowo w ³atkê umo¿liwiaj±c±
-wspó³dzia³anie z bibliotek± PAM.
+%description -l pl.UTF-8
+Jednolite miÄ™dzymordzie do haseÅ‚, do uÅ¼ycia przez serwery takie jak
+ftpd, pop3, imapd, login. WyposaÅ¼one dodatkowo w Å‚atkÄ™ umoÅ¼liwiajÄ…cÄ…
+wspÃ³Å‚dziaÅ‚anie z bibliotekÄ… PAM.
 
 %prep
 %setup -q
