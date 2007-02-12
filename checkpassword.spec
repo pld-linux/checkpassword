@@ -1,5 +1,5 @@
 Summary:	The uniform password-checking interface
-Summary(pl.UTF-8):   Jednolite międzymordzie do haseł
+Summary(pl.UTF-8):	Jednolite międzymordzie do haseł
 Name:		checkpassword
 Version:	0.90
 Release:	1
