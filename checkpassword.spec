@@ -7,7 +7,8 @@ License:	Qmail
 Group:		Applications/System
 Source0:	http://cr.yp.to/checkpwd/%{name}-%{version}.tar.gz
 # Source0-md5:	e75842e908f96571ae56c3da499ba1fc
-Patch0:		http://qmail.obeer.com/%{name}-pam-0.90.diff.gz
+Patch0:		http://www.qmail.org/%{name}-pam-0.90.diff.gz
+# Patch0-md5:	fd45f13200262fb2cd06c16c1041f267
 Patch1:		%{name}-pam-pld.patch
 URL:		http://cr.yp.to/checkpwd.html
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
